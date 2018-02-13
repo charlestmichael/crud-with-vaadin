@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-crud-with-vaadin.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-crud-with-vaadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-crud-with-vaadin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-crud-with-vaadin_main.iml" group="gs-crud-with-vaadin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gs-crud-with-vaadin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gs-crud-with-vaadin_test.iml" group="gs-crud-with-vaadin" />
+    </modules>
+  </component>
+</project>
